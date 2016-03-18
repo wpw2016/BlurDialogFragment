@@ -22,7 +22,7 @@ public class SampleActionBarActivity extends AppCompatActivity {
     private TextView mDownScaleFactorTextView;
 
     private CheckBox mDimmingEnable;
-    private CheckBox mBlurredActionBar;
+    private CheckBox mBlurredActionBar; // 是否需要模糊标题栏
     private CheckBox mDebugMode;
 
     @Override
